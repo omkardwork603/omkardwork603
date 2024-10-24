@@ -11,7 +11,7 @@
 
 - 🌱 I’m Learning growing person **Codeigniter**
 
-- 📫 How to reach me **linked in.com/in/omkar-deshmukh-106435204**
+- 📫 How to reach me **omkard603@gmail.com**
 
 - ⚡ Fun fact **I learning person😊**
 

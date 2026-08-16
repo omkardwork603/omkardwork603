@@ -11,7 +11,7 @@
 
 - 🌱 I’m Learning growing person **laravel**
 
-- 📫 How to reach me **omkard603@gmail.com** df
+- 📫 How to reach me **omkard603@gmail.com**
 
 - ⚡ Fun fact **I learning person😊**
 

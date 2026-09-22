@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm omkar deshmukh</h1>
-<h3 align="center">A passionate php developer from India</h3>
+<h1 align="center">Hi 👋, I'm Omkar Deshmukh</h1>
+<h3 align="center">A passionate PHP Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
